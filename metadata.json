@@ -1,0 +1,7 @@
+{
+  "name": "EstateAI Explorer",
+  "description": "A high-end real estate intelligence platform featuring an AI chatbot powered by Gemini for market insights, neighborhood analysis, and investment calculations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
